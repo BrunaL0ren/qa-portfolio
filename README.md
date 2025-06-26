@@ -1,10 +1,10 @@
-# 📊 Portfólio de Qualidade de Software | Bruna Loren
+# Portfólio de Qualidade de Software | Bruna Loren
 
 Este repositório reúne os principais projetos desenvolvidos por mim para demonstrar minha experiência com **testes manuais e automatizados**, aplicando boas práticas, ferramentas modernas e foco na garantia da qualidade de software.
 
 ---
 
-## 🔹 Projetos
+## Projetos
 
 ### 1. **Testes Manuais - Sistema de Login**
 
@@ -42,7 +42,7 @@ Este repositório reúne os principais projetos desenvolvidos por mim para demon
 
 ---
 
-## 📈 Sobre mim
+## Sobre mim
 
 Sou **Analista de Qualidade de Software** com foco em garantir entregas com confiabilidade e eficiência. Tenho experiência com:
 
